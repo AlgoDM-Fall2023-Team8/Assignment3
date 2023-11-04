@@ -40,7 +40,7 @@ import matplotlib.pyplot as plt
 import glob
 
 # Replace this with the full path to your directory
-directory_path = 'task_1.1/images by style'
+directory_path = 'task_1.1/images by style/images by style'
 
 # Use the directory_path in the glob function
 image_paths = glob.glob(f'{directory_path}/*.jpg')
