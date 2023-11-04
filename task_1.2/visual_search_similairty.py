@@ -10,7 +10,9 @@ import numpy as np
 st.title('Image Classification Demo')
 
 # Load the model
-model = tf.keras.models.load_model('visual_search.h5')
+#model = tf.keras.models.load_model('visual_search.h5')
+model = tf.keras.models.load_model('task_1.2/visual_search.h5')
+
 
 
 
