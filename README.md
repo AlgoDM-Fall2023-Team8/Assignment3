@@ -1,4 +1,4 @@
-# Assignment3
+# Assignment 3
 [ Video Link](https://northeastern-my.sharepoint.com/:v:/g/personal/bodkhe_a_northeastern_edu/EQuHHTRrEzNAh5k2mNIVi2sBByTo_qWEQwNVxXNtQpDNWw?e=5TdzI4)
 
 [ CodeLab Link](https://docs.google.com/document/d/1dNQXi2ydt6nk70425KfHsOLr0c5a6QZ3ua53KR20JFk/edit?usp=sharing)
