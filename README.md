@@ -1,8 +1,11 @@
 # Assignment3
 [ Video Link](https://northeastern-my.sharepoint.com/:v:/g/personal/bodkhe_a_northeastern_edu/EQuHHTRrEzNAh5k2mNIVi2sBByTo_qWEQwNVxXNtQpDNWw?e=5TdzI4)
-[ CodeLab Link](https://docs.google.com/document/d/1dNQXi2ydt6nk70425KfHsOLr0c5a6QZ3ua53KR20JFk/edit?usp=sharing
-)
 
+[ CodeLab Link](https://docs.google.com/document/d/1dNQXi2ydt6nk70425KfHsOLr0c5a6QZ3ua53KR20JFk/edit?usp=sharing)
+
+[ Task1]([https://visual-search.streamlit.a](https://appartisticstylepy-8wcmdmydptut65zojlqcc2.streamlit.app/))
+
+[ Task2](https://visual-search.streamlit.app/)
 
 # Visual Search and Style Transfer Showcase
 This repository hosts a collection of interactive Streamlit applications that demonstrate the power of visual search and style transfer in the field of computer vision. These applications are designed to showcase various techniques and models that allow users to explore and search for images based on both visual similarity and artistic style.
