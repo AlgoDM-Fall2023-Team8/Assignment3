@@ -186,8 +186,9 @@ widgetsnbextension==4.0.9
 wrapt==1.14.1
 yarl==1.9.2
 zipp==3.17.0
-opencv-contrib-python
-opencv-python-headless
+
+opencv-python-headless==4.5.4.60
+
 numpy==1.23.5
 scipy==1.10.1
 
