@@ -3,7 +3,7 @@
 
 [ CodeLab Link](https://docs.google.com/document/d/1dNQXi2ydt6nk70425KfHsOLr0c5a6QZ3ua53KR20JFk/edit?usp=sharing)
 
-[ Task1]([https://visual-search.streamlit.a](https://appartisticstylepy-8wcmdmydptut65zojlqcc2.streamlit.app/))
+[ Task1](https://appartisticstylepy-8wcmdmydptut65zojlqcc2.streamlit.app/)
 
 [ Task2](https://visual-search.streamlit.app/)
 
